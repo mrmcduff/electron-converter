@@ -1,2 +1,11 @@
-# electron-converter
-Making a video converter based on SG's Electron course
+### Getting started
+
+`npm install`
+
+Start dev server:
+
+`npm start`
+
+In a new terminal window:
+
+`npm run electron`
